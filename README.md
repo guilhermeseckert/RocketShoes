@@ -25,9 +25,10 @@ Esta aplicaçao foi desenvolvido com intuido de aprender arquitetura Flux. Sera 
 
 <h1 align="center">
   <img alt="rocketshoes2" title="rocketshoes2" src="git_images/font.png" width="350px" />
+</h1>
+
 
   <img alt="rocketshoes3" title="rocketshoes3" src="git_images/Cart.png" width="350px" />
-</h1>
 
 ### Ferramentas utilizadas
 
