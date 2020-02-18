@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="rocketshoes" title="rocketshoes" src=".git_images/logo.svg" width="200px" />
+  <img alt="rocketshoes" title="rocketshoes" src="git_images/logo.svg" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -24,9 +24,9 @@
 Esta aplicaçao foi desenvolvido com intuido de aprender arquitetura Flux. Sera Desenvolvido uma exemplo de E-commerce de venda de sapatos **RocketShoes**.
 
 <h1 align="center">
-  <img alt="rocketshoes" title="rocketshoes" src=".git_images/font.png" width="350px" />
+  <img alt="rocketshoes" title="rocketshoes" src="git_images/font.png" width="350px" />
 
-  <img alt="rocketshoes" title="rocketshoes" src=".git_images/Cart.png" width="350px" />
+  <img alt="rocketshoes" title="rocketshoes" src="git_images/Cart.png" width="350px" />
 </h1>
 
 ### Ferramentas utilizadas
@@ -36,26 +36,11 @@ Esta aplicaçao foi desenvolvido com intuido de aprender arquitetura Flux. Sera 
 
 ### Funcionalidades
 
-#### 1. Autenticação
+Adicionar produtos ao carrinho de compras
 
-Permitir que um usuário se autentique em sua aplicação utilizando e-mail e uma senha.
+### Informações para uso do codigo
 
-#### 2. Cadastro de alunos
-
-Permitir que alunos sejam mantidos (cadastrados/atualizados) na aplicação utilizando nome, email, idade, peso e altura, avatar.
-O cadastro dos alunos só é feito por administradores autenticados na aplicação.
-
-#### 3. Agendamento
-
-Opçao de agendamento de treinos.
-
-#### 4. Notificaçao de agendamento
-
-Notificaçao de agendamento por e-mail.
-
-### informações para uso do codigo
-
-Para esta aplicaçao voce precisar ter instalado o [Yarn][yarn]no seu computador para conseguir usar as linhas de comando abaixo.
+Para esta aplicaçao voce precisar ter instalado o [Yarn][yarn] no seu computador para conseguir usar as linhas de comando abaixo.
 
 ```bash
 #Clone o repositorio com o comando
