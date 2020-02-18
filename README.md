@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="rocketshoes" title="rocketshoes" src="git_images/logo.svg" width="200px" />
+  <img alt="rocketshoes" title="rocketshoes" src="git_images/logo.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -27,7 +27,6 @@ Esta aplicaçao foi desenvolvido com intuido de aprender arquitetura Flux. Sera 
   <img alt="rocketshoes3" title="rocketshoes3" src="git_images/front.png" width="350px" />
   <img alt="rocketshoes4" title="rocketshoes4" src="git_images/Cart.png" width="350px" />
 </h1>
-
 
 ### Ferramentas utilizadas
 
