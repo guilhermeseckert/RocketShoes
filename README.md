@@ -24,7 +24,7 @@
 Esta aplicaçao foi desenvolvido com intuido de aprender arquitetura Flux. Sera Desenvolvido uma exemplo de E-commerce de venda de sapatos **RocketShoes**.
 
 <h1 align="center">
-  <img alt="rocketshoes" title="rocketshoes" src=".git_images/font.png" width="350px" />
+  <img alt="rocketshoes" title="rocketshoes" src="git_images/font.png" width="350px" />
 
   <img alt="rocketshoes" title="rocketshoes" src=".git_images/Cart.png" width="350px" />
 </h1>
