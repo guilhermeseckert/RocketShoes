@@ -23,7 +23,7 @@
 
 Esta aplicaçao foi desenvolvido com intuido de aprender arquitetura Flux. Sera Desenvolvido uma exemplo de E-commerce de venda de sapatos **RocketShoes**.
 
-<h1 align="center">
+<h1 align="center" border-radius= "50%">
   <img alt="rocketshoes3" title="rocketshoes3" src="git_images/front.png" width="350px" />
   <img alt="rocketshoes4" title="rocketshoes4" src="git_images/Cart.png" width="350px" />
 </h1>
@@ -44,8 +44,6 @@ Para esta aplicaçao voce precisar ter instalado o [Yarn][yarn] no seu computado
 ```bash
 #Clone o repositorio com o comando
 $git clone https://github.com/guilhermeseckert/rocketshoes
-RocketShoes
-
 
 #Navegue ate pasta
 $ cd rocketshoes
