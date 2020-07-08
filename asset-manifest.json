@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/RocketShoes/static/js/main.f8939b58.chunk.js",
+    "main.js.map": "/RocketShoes/static/js/main.f8939b58.chunk.js.map",
+    "runtime-main.js": "/RocketShoes/static/js/runtime-main.24260f77.js",
+    "runtime-main.js.map": "/RocketShoes/static/js/runtime-main.24260f77.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/RocketShoes/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.d75b5f29.chunk.js": "/RocketShoes/static/js/2.d75b5f29.chunk.js",
+    "static/js/2.d75b5f29.chunk.js.map": "/RocketShoes/static/js/2.d75b5f29.chunk.js.map",
+    "index.html": "/RocketShoes/index.html",
+    "precache-manifest.31f3df2fa9e46fe8daee1aa6717af072.js": "/RocketShoes/precache-manifest.31f3df2fa9e46fe8daee1aa6717af072.js",
+    "service-worker.js": "/RocketShoes/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/RocketShoes/static/css/2.5dbdccff.chunk.css.map",
+    "static/js/2.d75b5f29.chunk.js.LICENSE": "/RocketShoes/static/js/2.d75b5f29.chunk.js.LICENSE",
+    "static/media/background.svg": "/RocketShoes/static/media/background.3c9a1ce5.svg",
+    "static/media/logo.svg": "/RocketShoes/static/media/logo.879557c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24260f77.js",
+    "static/css/2.5dbdccff.chunk.css",
+    "static/js/2.d75b5f29.chunk.js",
+    "static/js/main.f8939b58.chunk.js"
+  ]
+}
