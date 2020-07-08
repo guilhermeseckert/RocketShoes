@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/guilhermeseckert.github.io/RocketShoes/static/js/main.eed2410f.chunk.js",
+    "main.js.map": "/guilhermeseckert.github.io/RocketShoes/static/js/main.eed2410f.chunk.js.map",
+    "runtime-main.js": "/guilhermeseckert.github.io/RocketShoes/static/js/runtime-main.eea5f20c.js",
+    "runtime-main.js.map": "/guilhermeseckert.github.io/RocketShoes/static/js/runtime-main.eea5f20c.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/guilhermeseckert.github.io/RocketShoes/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.72934246.chunk.js": "/guilhermeseckert.github.io/RocketShoes/static/js/2.72934246.chunk.js",
+    "static/js/2.72934246.chunk.js.map": "/guilhermeseckert.github.io/RocketShoes/static/js/2.72934246.chunk.js.map",
+    "index.html": "/guilhermeseckert.github.io/RocketShoes/index.html",
+    "precache-manifest.5684d7b96a3b9b030c57d095a081fd0c.js": "/guilhermeseckert.github.io/RocketShoes/precache-manifest.5684d7b96a3b9b030c57d095a081fd0c.js",
+    "service-worker.js": "/guilhermeseckert.github.io/RocketShoes/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/guilhermeseckert.github.io/RocketShoes/static/css/2.5dbdccff.chunk.css.map",
+    "static/js/2.72934246.chunk.js.LICENSE": "/guilhermeseckert.github.io/RocketShoes/static/js/2.72934246.chunk.js.LICENSE",
+    "static/media/background.svg": "/guilhermeseckert.github.io/RocketShoes/static/media/background.3c9a1ce5.svg",
+    "static/media/logo.svg": "/guilhermeseckert.github.io/RocketShoes/static/media/logo.879557c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea5f20c.js",
+    "static/css/2.5dbdccff.chunk.css",
+    "static/js/2.72934246.chunk.js",
+    "static/js/main.eed2410f.chunk.js"
+  ]
+}
